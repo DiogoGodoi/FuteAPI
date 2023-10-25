@@ -1,4 +1,4 @@
-#FuteAPI
+# FuteAPI
 
 ## Aplicativo de console que consome uma API externa relacionada ao futebol, fornecendo informações atualizadas sobre a classificação do Campeonato Brasileiro. Essas informações são armazenadas em cache, evitando chamadas excessivas à API.
 
